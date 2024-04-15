@@ -50,7 +50,7 @@ pip install chainlit
 ```
 
 
-To install as a package, please use:
+To install as a package, please use (it might not install mysqlclient, so do pip install mysqlclient):
 
 ```bash
 pip install -e .
